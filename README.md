@@ -2,15 +2,18 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Bioinformatic, Data scientist</h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=vikhall)
 
+- 🔭 My working experience: one year in molecular biology (ICG SB RAS), two years in academic bioinformatics (ICG SB RAS), one year in commercial bioinformatics (BostonGene)
+- ⚡ My stack: Python, R, Bash, Pandas, sklearn, seaborn, keras, aws, docker, prefect, Transcriptomic tools (Fastqc,Fastp,bbtools,STAR,DART,hisat2,edgeR,DESeq2,AgriGO,KEGG), Genomic tools (bowtie2,samtools,bedtools,vcftools,mpileup,VEP,CODEX,manta,SigFit), Metabolomic tools (MapMan, Shiny GAM)
 - 💬 I'm looking for a job in bioinformatics or data science 
 - 📫 How to reach me: vikhall14@gmail.com, Telegram: avikhorev
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikhall&layout=compact)](https://github.com/vikhalla/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/avikhorev)
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=avikhorev)](https://github.com/KnlnKS/leetcode-stats)
 
 
 <!--
@@ -18,7 +21,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
