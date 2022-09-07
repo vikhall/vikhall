@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Alexandr!
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Bioinformatic, Data scientist</h3>
+
+
+- 💬 I'm looking for a job in bioinformatics or data science 
+- 📫 How to reach me: vikhall14@gmail.com, Telegram: avikhorev
 
 <!--
 **vikhall/vikhall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
