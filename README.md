@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikhall&layout=compact)](https://github.com/vikhalla/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/avikhorev)
+[![Profile badge](https://www.codewars.com/users/avikhorev/badges/large)](https://www.codewars.com/users/avikhorev)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=avikhorev)](https://github.com/KnlnKS/leetcode-stats)
 
