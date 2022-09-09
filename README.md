@@ -9,7 +9,9 @@
 - 💬 I'm looking for a job in bioinformatics or data science 
 - 📫 How to reach me: vikhall14@gmail.com, Telegram: avikhorev
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikhall&layout=compact)](https://github.com/vikhalla/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikhall&layout=compact)](https://github.com/vikhall/github-readme-stats)
+
 
 [![Profile badge](https://www.codewars.com/users/avikhorev/badges/large)](https://www.codewars.com/users/avikhorev)
 
